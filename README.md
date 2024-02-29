@@ -7,7 +7,8 @@ He trabajado desde hace 3 años en desarrollo web, actualmente trabajo en el ár
 * 🖥️  See my portfolio at [My Personal website](http://latodev.com)
 * ✉️  You can contact me at [latorrecw@gmail.com](mailto:latorrecw@gmail.com)
 * 🚀  I'm currently working on [Lato Admin](http://lato-admin.pages.dev)
-* 🧠  I'm learning Vue JS* ⚡  I love developing wordpress projects
+* 🧠  I'm learning Vue JS
+* ⚡  I love developing wordpress projects
 
 ### Skills
 
