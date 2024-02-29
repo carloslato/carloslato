@@ -1,7 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carlos La Torre
-=======================================================================================================================================
 
-### Frontend Developer
+## Frontend Developer
 He trabajado desde hace 3 años en desarrollo web, actualmente trabajo en el área de Frontend pero he trabajado del lado del Backend con PHP en varios proyectos.* 🌍  I'm based in Lima, Perú* 🖥️  See my portfolio at [My Personal website](http://latodev.com)* ✉️  You can contact me at [latorrecw@gmail.com](mailto:latorrecw@gmail.com)* 🚀  I'm currently working on [Lato Admin](http://lato-admin.pages.dev)* 🧠  I'm learning Vue JS* ⚡  I love developing wordpress projects
 
 ### Skills
